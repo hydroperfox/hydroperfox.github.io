@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <? include "_components/HTMLHeader.php"; ?>
-    <title>Hydroper Home</title>
+    <?php include "_components/HTMLHeader.php"; ?>
+    <title>Hydroper</title>
 </head>
 <body>    
 </body>
