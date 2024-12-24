@@ -4,7 +4,7 @@
 // moving along with the page.
 $TopBar_items = array(
     new TopBarItem("Home", "/", true),
-    new TopBarItem("Whack", "/whack"),
+    new TopBarItem("Whack™", "/whack"),
     new TopBarItem("About", "/about"),
 );
 
