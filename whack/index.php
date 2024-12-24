@@ -34,11 +34,11 @@
                 <p>ActionCore is an ActionScript 3 runtime implemented in JavaScript, which evaluates in HTML5 and Node.js® runtimes.</p>
                 <h1>Whack libraries</h1>
                 <p>
-                    The Whack libraries repository (<code>whacklib</code>) contains Whack packages that implement
+                    The Whack libraries repository contains Whack packages that implement
                     ActionScript 3 built-ins.
                 </p>
             </div>
-    </div>
+        </div>
     </main>
     <?php include "../_components/html/footer.php"; ?>
 </body>
