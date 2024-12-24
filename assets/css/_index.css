@@ -24,6 +24,13 @@ main {
     padding-top: 2rem;
 }
 
+/* footer */
+
+footer {
+    padding: 1rem;
+    padding-top: 2rem;
+}
+
 /* TopBar */
 
 .TopBar {
@@ -49,4 +56,19 @@ main {
     background: url("/assets/images/icon.png") no-repeat;
     background-size: 32px;
     background-position: center;
+}
+
+/* Button */
+
+.Button {
+    font-size: 1.1rem;
+    color: var(--Label-color);
+    padding: 0.9rem 1.5rem;
+    background: none;
+    border: 3px solid var(--Label-color);
+    border-radius: 35px;
+}
+
+.Button:hover {
+    opacity: 0.7;
 }
