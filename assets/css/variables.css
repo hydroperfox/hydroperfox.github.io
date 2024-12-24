@@ -1,6 +1,8 @@
 :root {
     --background: #2c425d;
     --font: "Open Sans", sans;
+    --font-size: 0.9rem;
     --mono-font: "Courier Prime", "Courier New", monospace;
+    --mono-font-size: 0.87rem;
     --Label-color: #fff;
 }

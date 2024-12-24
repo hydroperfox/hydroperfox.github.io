@@ -9,11 +9,22 @@ body {
     background: var(--background);
     color: var(--Label-color);
     font-family: var(--font);
+    font-size: var(--font-size);
 }
 
 code, pre {
     font-family: var(--mono-font);
+    font-size: var(--mono-font-size);
 }
+
+/* main */
+
+main {
+    padding: 1rem;
+    padding-top: 2rem;
+}
+
+/* TopBar */
 
 .TopBar {
     background: var(--background);
