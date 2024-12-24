@@ -1,6 +1,0 @@
-Options FollowSymlinks
-RewriteEngine On
-
-# PHP page: friendly URL (default)
-DefaultType application/x-httpd-php
-DirectoryIndex index.php index.html
