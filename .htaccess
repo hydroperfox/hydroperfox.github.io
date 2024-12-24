@@ -1,0 +1,5 @@
+Options FollowSymlinks
+RewriteEngine On
+
+RewriteBase /
+RewriteRule ^([a-z0-9\-_/]+)$ $1.php [NC,QSA,L]
