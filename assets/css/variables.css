@@ -1,4 +1,6 @@
 :root {
     --background: #2c425d;
+    --font: "Open Sans", sans;
+    --mono-font: "Courier Prime", "Courier New", monospace;
     --Label-color: #fff;
 }

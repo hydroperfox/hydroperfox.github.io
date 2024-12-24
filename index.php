@@ -1,3 +1,4 @@
+<?php require_once "_prelude.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>

@@ -11,8 +11,9 @@ $TopBar_items = array(
 $TopBar_content = array();
 foreach ($TopBar_items as $item)
 {
-    $cn1 = $item->logo ? " TopBarLogo" : "";
-    $TopBar_content[] = "<a class=\"TopBarItem$cn1\" href=\"{$item->dest}\">{$item->label}</a>";
+    $s1 = $item->logo ? " TopBarLogo" : "";
+    $s2 = $item->logo ? "" : $item->label;
+    $TopBar_content[] = "<a class=\"TopBarItem$s1\" href=\"{$item->dest}\">{$s2}</a>";
 }
 
 $TopBar_content = join("", $TopBar_content);
