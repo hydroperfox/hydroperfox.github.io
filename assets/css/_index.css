@@ -17,6 +17,14 @@ code, pre {
     font-size: var(--mono-font-size);
 }
 
+.page-horizontal-limit {
+    max-width: 40rem;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+}
+
 /* main */
 
 main {
