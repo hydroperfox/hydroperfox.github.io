@@ -1,0 +1,17 @@
+@import url("variables.css");
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: var(--background);
+    color: var(--Label-color);
+}
+
+.TopBar {
+    background: var(--background);
+    display: flex;
+    width: 100%;
+}
